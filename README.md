@@ -1,8 +1,8 @@
 # Modern System Programming
 
-if you have High level knowledge using Python, JS, Ruby, Java or high level language you can use this repo to have a introduction to more system and low level topics used in under the hood for your High level language and really you will be a better Software Engineer with this knowledge.
+if you have High level knowledge using Python, JS, Ruby, Java or high level language you can use this repo to have a introduction to system and low level programming or topics used in under the hood for your High level language and really you will be a better Software Engineer with this knowledge.
 
-This repository is my tracked way to learn about Systems development useful to have deep understanding about computer Science principle to build efficient, safe and maintainable systems.
+This repository is my tracked way to learn about Systems development useful to have deep understanding about computer Science principle to build efficient, safe and maintainable of systems.
 
 It repo is not about C programming or specific system for example embedded systems, Kernel Programming, arduino or etc.
 
@@ -13,7 +13,6 @@ It repo is not about C programming or specific system for example embedded syste
   - What is Low level and Abstraction.
   - Software attributes of quality.
   - System programming problems.
-  - Abstraction problem with programming language.
   - Why Data structures and algorithms are useful here.
 - System Design
   - Complexity
@@ -21,8 +20,8 @@ It repo is not about C programming or specific system for example embedded syste
 - System Languages.
   - Rust, C/C++, Clojure, Fortran, Cobol, Scala etc.
 - Hands On or Projects
-  - abstraction zero cost systems
-    - Simple Shell.
-    - Build a own blockchain
+  - zero cost abstraction systems
+  - Simple Shell.
+  - Build a own blockchain
 
 [Continue](./markdown/system.md)
