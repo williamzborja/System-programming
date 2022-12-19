@@ -8,9 +8,12 @@ Today system programming in in everywhere it's common find components of softwar
 
 The most biggest companies like Uber, Amazon, Google, Meta, Apple have built you systems written several systems written in different language ex: python, C++, Rust, Golang or other language C programming language System programming not depend of language, initially.
 
-Basically exist System and Application programming.
+is hard find only application programming because the only one application consume many systems.
 
-is hard find only application programming because the only one application consume many systems inclusive.
+Today the concept of system programming and application programming could be thought as Frontend and backend but in modern software environment frontend can be too a complex system with webassembly, webSql, Webworkers, WebGL.
 
+## Why is important
+
+Computer Science
 
 [continue](./low_level.md)
